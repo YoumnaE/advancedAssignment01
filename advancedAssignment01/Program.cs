@@ -9,5 +9,17 @@
             #endregion
 
         }
+
+        #region Q4
+
+        //What is a generic method? method that uses a type parameter, so it works with diff data types without diff methods
+
+        static void Swap<T>(ref T a, ref T b){
+            T temp = a;
+            a = b;
+            b = temp;
+        }
+
+        #endregion
     }
 }
