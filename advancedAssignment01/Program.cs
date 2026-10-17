@@ -20,6 +20,13 @@
             //returns the default value of the type
 
             #endregion
+
+            #region Q15
+
+            //What is covariance? Explain the 'out' keyword
+            //use child class instead of parent with a generic interface
+
+            #endregion
         }
 
         #region Q4
