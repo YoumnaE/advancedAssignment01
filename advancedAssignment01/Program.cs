@@ -14,6 +14,12 @@
 
             Console.WriteLine(FindMax<int>(10, 20));
 
+            #region Q13
+
+            //What does the 'default' keyword do in generics?
+            //returns the default value of the type
+
+            #endregion
         }
 
         #region Q4
